@@ -1,0 +1,41 @@
+body {
+  background-color: #f1f5f9;
+  color: #1e293b;
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
+
+.report {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 25px;
+}
+
+.summary-card {
+  background-color: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 10px;
+  padding: 20px;
+  margin: 15px 0;
+}
+
+.result-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.result-item {
+  background-color: #ffffff;
+  border: 1px solid #cbd5e1;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 10px;
+}
+
+.result-name {
+  font-weight: bold;
+  margin-right: 15px;
+}
+
